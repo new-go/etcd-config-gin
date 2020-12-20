@@ -1,0 +1,7 @@
+etcd:
+  endpoints:
+    - 'localhost:2379'
+  timeout: 10000
+
+system:
+  addr: 'localhost:8080'
